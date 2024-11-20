@@ -1,7 +1,7 @@
 # EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools
 Experiment -2 
 Aim:
-To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools, analyse its functionality and performance, and understand the  principles of digital logic design, including schematic creation, layout design, and simulation.
+To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools,  analyse its functionality and performance, and understand the  principles of digital logic design, including schematic creation, layout design, and simulation.
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
@@ -32,7 +32,7 @@ i)	Procedure for Creating New Library.
 •	Enable Attach to an existing technology library, Click OK
 •	Attach the library to the technology library gpdk045.Click OK
 ii)	Create Schematic Cell view.
-•	Go to 1st window i.e virtuoso(CIW)
+•	Go to 1st window i.e virtuoso (CIW)
 •	File-New-Cell view
 •	Setup the new file form
 	  Library: Select the one you a created.
